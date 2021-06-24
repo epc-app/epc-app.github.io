@@ -1,0 +1,20 @@
+{
+    "name": "Efrata Problem Complaint",
+    "short_name": "Efrata Problem Complaint",
+    "icons": [{
+        "src": "images/192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }, {
+        "src": "images/512X512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#336706",
+    "description": "EPC",
+    "scope": "/",
+    "theme_color": "#336706",
+    "orientation": "portrait"
+}
