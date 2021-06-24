@@ -1,4 +1,4 @@
-var CACHE_NAME = 'epc-cache-v1';
+var CACHE_NAME = 'epc-cache-v2';
 var urlsToCache = [
   '/',
   '/index.html',
