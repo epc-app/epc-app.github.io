@@ -12,9 +12,9 @@
     }],
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#336706",
+    "background_color": "#fffff",
     "description": "EPC",
     "scope": "/",
-    "theme_color": "#336706",
+    "theme_color": "#fffff",
     "orientation": "portrait"
 }
