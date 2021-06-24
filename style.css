@@ -3,6 +3,32 @@
     background-color: #e2edff;
 }
 
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+
+.form-label,
+.form-control,
+.form-text,
+.btn-kirim,
+.btn-loading,
+.footer-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
 h4 {
     font-weight: 100;
 }
